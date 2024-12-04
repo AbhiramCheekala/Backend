@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# .env file (for environment variables)
+.env
+
+# Logs
+*.log
+
+# npm package-lock file (optional, but recommended to avoid potential conflicts)
+package-lock.json
+
+# Debug files
+.vscode/
+
+# OS-specific files
+.DS_Store      # macOS specific
+Thumbs.db      # Windows specific
+
+# Coverage directory (from tests)
+coverage/
+
+# Build directories (if any)
+dist/
+
+# Temporary files (from text editors)
+*.swp
